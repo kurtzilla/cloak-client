@@ -1,5 +1,8 @@
-This app is still a bit clunky in it's handling of auth.
-for instance,
+This app is still a bit clunky in it's handling of auth and I plan to keep  
+this in git 
+
+
+
 COMPLETED  
 * token is not set on signup
 * change page title
